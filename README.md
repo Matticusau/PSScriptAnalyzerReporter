@@ -1,6 +1,8 @@
 # PSScriptAnalyzerReporter
 Convert PSScriptAnalyzer output into HTML reports to make it easier to share and analyse the data
 
+When I am providing assistance to customers with PowerShell scripts or even just working on my own projects I often use the [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) to analyze the script for best practices. I started this project as I had a need to provide the output to a customer in a format that was easier for them to digest and share. 
+
 ## Required PowerShell Modules
 The following PowerShell modules.
 * PSScriptAnalyzer
