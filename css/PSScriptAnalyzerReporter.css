@@ -1,0 +1,31 @@
+.tblIssue
+{
+    border-style: solid;
+    border-width: 1px;
+    width: 80%;
+}
+.tdIssue
+{
+    border-style: solid;
+    border-width: 1px;
+}
+.tdCritical 
+{
+    background-color: DarkRed;
+    color: White;
+}
+.tdWarning 
+{
+    background-color: Orange;
+    color: Black;
+}
+.tdLow 
+{
+    background-color: Blue;
+    color: White;
+}
+.tdInformation 
+{
+    background-color: Green;
+    color: White;
+}
